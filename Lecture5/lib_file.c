@@ -1,5 +1,4 @@
 #include "lib_file.h"
-#include <linux/time.h>
 
 pthread_mutex_t lock;
 pthread_cond_t go;
