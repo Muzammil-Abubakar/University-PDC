@@ -1,0 +1,1 @@
+In lecture 3 we have studied the use of section, they first need sections to run. To be very honest, its very simple and not much time is needed in the understanding of this.
